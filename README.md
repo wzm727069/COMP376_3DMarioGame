@@ -1,4 +1,9 @@
 # comp376_MarioGame
+
+ZIMING WANG
+
+ID: 40041601
+
 3D version of Mario Game.
 
 FPS control.
