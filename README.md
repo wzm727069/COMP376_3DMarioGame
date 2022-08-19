@@ -1,4 +1,4 @@
-# comp376_MarioGame
+# comp376_Mario Game
 
 ZIMING WANG
 
