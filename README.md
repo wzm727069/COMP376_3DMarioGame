@@ -18,6 +18,13 @@ Character's teleporting ability.
 
 ## Demo
 
+* Game Map
 * FPS Control
 
 <h1 align="left"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/FPS%20Control.gif" height="400px" width="500px"> </h1>
+
+* Collecting Coins
+* Bombers
+* Cannon
+* Seesaw
+* Teleporting
