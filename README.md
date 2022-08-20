@@ -1,7 +1,7 @@
 # comp376_Mario Game
 
 
-<h1 align="center"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/FPS%20Control.gif" height="55px" width="55px"> </h1>
+<h1 align="center"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/FPS%20Control.gif" height="200px" width="200px"> </h1>
 
 
 
