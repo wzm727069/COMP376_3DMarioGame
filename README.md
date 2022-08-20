@@ -19,7 +19,7 @@ Character's teleporting ability.
 ## Game Mechanics Demo
 
 * Game Map
-<h1 align="left"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/Map.jpg" height="400px" width="700px"> </h1>
+<h1 align="left"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/Map.jpg" height="500px" width="800px"> </h1>
 
 * FPS Control
 <h1 align="left"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/FPS%20Control.gif" height="400px" width="600px"> </h1>
