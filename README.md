@@ -8,6 +8,8 @@ ID: 40041601
 
 FPS control.
 
+Animation of the character.
+
 Implementing requied objects.
 
 Implementing collision detection to all objects.
