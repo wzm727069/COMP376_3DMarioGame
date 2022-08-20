@@ -1,5 +1,10 @@
 # comp376_Mario Game
 
+
+<h1 align="center"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/FPS%20Control.gif" height="55px" width="55px"> </h1>
+
+
+
 ZIMING WANG
 
 ID: 40041601
