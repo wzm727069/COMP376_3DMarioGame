@@ -16,7 +16,7 @@ Implementing Cannon and eplosion effect.
 
 Character's teleporting ability.
 
-## Demo
+## Game Mechanics Demo
 
 * Game Map
 <h1 align="left"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/Map.jpg" height="400px" width="700px"> </h1>
