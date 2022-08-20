@@ -37,5 +37,5 @@ Character's teleporting ability.
 <h1 align="left"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/Seesaw.gif" height="400px" width="600px"> </h1>
 
 * Teleporting
-<h1 align="left"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/Teleport1.gif" height="400px" width="600px"> </h1>
-<h1 align="left"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/Teleport2.gif" height="400px" width="600px"> </h1>
+** <h1 align="left"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/Teleport1.gif" height="400px" width="600px"> </h1>
+** <h1 align="left"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/Teleport2.gif" height="400px" width="600px"> </h1>
