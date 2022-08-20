@@ -14,6 +14,8 @@ Implementing collision detection to all objects.
 
 Implementing Cannon and eplosion effect.
 
+Implementing traditional Mario Game sound effects.
+
 Character's teleporting ability.
 
 ## Game Mechanics Demo
