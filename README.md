@@ -1,10 +1,5 @@
 # comp376_Mario Game
 
-
-<h1 align="center"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/FPS%20Control.gif" height="200px" width="200px"> </h1>
-
-
-
 ZIMING WANG
 
 ID: 40041601
@@ -20,3 +15,6 @@ Implementing collision detection to all objects.
 Implementing Cannon and eplosion effect.
 
 Character's teleporting ability.
+
+
+<h1 align="center"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/FPS%20Control.gif" height="200px" width="200px"> </h1>
