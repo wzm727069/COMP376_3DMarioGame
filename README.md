@@ -18,4 +18,6 @@ Character's teleporting ability.
 
 ## Demo
 
-<h1 align="center"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/FPS%20Control.gif" height="200px" width="200px"> </h1>
+* FPS Control
+
+<h1 align="center"> <img src="https://github.com/wzm727069/comp376_MarioGame/blob/master/FPS%20Control.gif" height="200px" width="300px"> </h1>
